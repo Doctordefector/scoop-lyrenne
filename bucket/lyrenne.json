@@ -1,12 +1,12 @@
 {
-    "version": "2.15.1",
+    "version": "2.16.2",
     "description": "A free, open source YouTube Music player for Windows. Portable, no installer, no ads.",
     "homepage": "https://github.com/Doctordefector/Lyrenne",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Doctordefector/Lyrenne/releases/download/v2.15.1/Lyrenne-2.15.1-portable.zip",
-            "hash": "04e0a34cb6ea6e8d9d26fccf208646b12f5f40d8f1942de1092b5bebc53c03db",
+            "url": "https://github.com/Doctordefector/Lyrenne/releases/download/v2.16.2/Lyrenne-2.16.2-portable.zip",
+            "hash": "1573efc0cd6eacc4588ef3fda452a37c55b3e58ff7748f1a940721be168c6e1b",
             "extract_dir": "Lyrenne"
         }
     },
